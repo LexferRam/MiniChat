@@ -12,3 +12,5 @@ socket.emit('evento', data)
 ```js 
 socket.on('evento', data)
 ```
+
+**project URL**: https://mini-chat-lexfer.onrender.com/
